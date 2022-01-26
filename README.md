@@ -4,5 +4,5 @@ In this project, I perfomed the data analysis on the [Loan Dataset](https://www.
 
  * Data Cleaning (SQL and Python).
  * Data Analysis.
- * Data Visualization with Python (Seaborn library) and Tableau. 
+ * Data Visualization with Python (Seaborn library). 
  
